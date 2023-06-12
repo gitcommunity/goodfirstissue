@@ -1,2 +1,2 @@
 ## All contributors to the goodfirstissue project
-1. [Rodukov](https://github.com/rodukov)
+1. [Gleb Rodukov](https://github.com/rodukov)
